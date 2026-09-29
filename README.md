@@ -91,7 +91,7 @@ const DB = {
 ## ▶️ Como Executar
 
 1. Faça o download ou clone o repositório
-2. Abra o arquivo `index.html` diretamente no navegador
+2. Abra o diretamente no navegador https://arthur-cardoso0.github.io/POO3-P1/
 
 > Nenhuma instalação, servidor ou dependência externa é necessária. O projeto roda 100% no frontend.
 
